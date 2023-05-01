@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(243, 121, 225);
+}
+#header{
+    color: white;
+    font-size: 35px;
+    margin: 10px 0px 0px 30px;
+}
+.li{
+    margin: 20px;
+    color:white;
+    background-color: blue;
+    border-radius: 5px;
+    text-align: center;
+    width:50%;
+    padding: 10px 0px 10px 0px;
+}
+.btn{
+    margin:15px 0px 30px 30px;
+}
+#results{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: yellowgreen;
+    width:80%;
+    margin: auto;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#results span{
+    margin:10px;
+    background-color: yellow;
+    width:40%;
+    margin: auto;
+    border-radius: 5px;
+    text-align: left;
+    padding: 10px;
+}
+#camera{
+    border:2px dashed black;
+    width:550px;
+    height:400px;
+    
+}
